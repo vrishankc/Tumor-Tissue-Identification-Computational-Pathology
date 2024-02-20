@@ -1,2 +1,2 @@
-# phase_one_tumor_tile_identification
+# Tumor Tissue Identification
 CNN training module for tumor tile detection
