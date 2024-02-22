@@ -14,6 +14,7 @@ import torch.nn.functional as F
 import torch.nn.init as init
 import torch.optim as optim
 from torchvision.models import *
+from eval_utils import bootstrap_auc
 import torch.utils.data
 import torch.backends.cudnn as cudnn
 import torchvision.transforms as transforms
